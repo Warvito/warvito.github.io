@@ -88,7 +88,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Walter H. Lopez Pinaya"
+  name             : "Walter Hugo Lopez Pinaya"
   avatar           : "/assets/images/profile_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Passionate about machine learning and neuroscience."
   location         : "London, UK"
