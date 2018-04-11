@@ -10,7 +10,7 @@ header:
   cta_url: "https://www.kcl.ac.uk/index.aspx"
   intro:
     - excerpt: "oie"
-    
+
 ---
 
 
@@ -24,3 +24,6 @@ header:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+
+https://habd.as/talks/streaming-audio-react-native/
