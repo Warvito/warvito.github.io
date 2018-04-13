@@ -4,6 +4,16 @@ var store = [{
         "tags": ["Darwin","evolusjon","RNA","non-coding DNA"],
         "url": "http://localhost:4001/blog/RNA-og-ervervede-egenskaper/",
         "teaser":null},{
+        "title": "Intra and interindividual variability in the functional connectome",
+        "excerpt":"Fernanda Lenita’s Master’s degree project Main researcher: Fernanda Lenita RibeiroSupervisor: Claudinei Eduardo BiazoliCo-supervisor: Walter Hugo Lopez Pinaya Keywords:   Functional MRI  Functional connectivity  Resting-state  TwinsLaboratório de Neurociência Computacional @ UFABC ","categories": [],
+        "tags": ["Functional MRI","Functional connectivity","Resting-state","Twins"],
+        "url": "http://localhost:4001/projects/felenita_project/",
+        "teaser":"http://localhost:4001/assets/images/projects/hcp.jpg"},{
+        "title": "Using deep learning technology to make individualised inferences in brain-based disorders",
+        "excerpt":"Text @ Machine learning in Mental Health Lab (Link) ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4001/projects/kcl_project/",
+        "teaser":"http://localhost:4001/assets/images/projects/kcl.png"},{
         "title": "Using deep belief network modelling to characterize differences in brain morphometry in schizophrenia",
         "excerpt":"Authors: Walter HL Pinaya, Ary Gadelha, Orla M Doyle, Cristiano Noto, André Zugman, Quirino Cordeiro, Andrea P Jackowski, Rodrigo A Bressan, João R Sato Journal: Scientific reports Abstract: Neuroimaging-based models contribute to increasing our understanding of schizophrenia pathophysiology and can reveal the underlying characteristics of this and other clinical conditions....","categories": [],
         "tags": [],
@@ -28,4 +38,4 @@ var store = [{
         "excerpt":"Authors: Adriana Miyazaki de Moura, Walter Hugo Lopez Pinaya, Ary Gadelha, André Zugman, Cristiano Noto, Quirino Cordeiro, Sintia Iole Belangero, Andrea P Jackowski, Rodrigo A Bressan, João Ricardo Sato Journal: Psychiatry Research: Neuroimaging Abstract: In this study, we employed the Maximum Uncertainty Linear Discriminant Analysis (MLDA) to investigate whether the...","categories": [],
         "tags": ["First-episode psychosis","Machine learning","Neuroimaging","Pattern Recognition","Schizophrenia"],
         "url": "http://localhost:4001/publications/2018-03-06-j.pscychresns.2018.03.003/",
-        "teaser":null},]
+        "teaser":null}]
