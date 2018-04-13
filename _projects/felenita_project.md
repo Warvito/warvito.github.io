@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Intra and interindividual variability in the functional connectome"
-excerpt: "Investigating people unique patterns of brain connectivity!"
+excerpt: "Investigating people's unique patterns of brain connectivity!"
 header:
   teaser: assets/images/projects/hcp.jpg
   overlay_color: "#000"
